@@ -1,5 +1,7 @@
 """
 Author: Brittank88
+Last Modified: 1.0.0
+Version: 1.0.0
 Credits:
     - ImageMagick Studio LLC for their ImageMagick software.
     - FFmpeg Project for their FFmpeg software.
