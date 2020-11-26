@@ -1,17 +1,17 @@
 THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 ============================================
-Do not translate or localise.
+**Do not translate or localise!**
 
 SUMMARY
 -------
 This project incorporates components from the projects listed below:
 
-1. FFmpeg Project / FFmpeg version $\ge$ `win64-v4.2.2`
+1. FFmpeg Project / FFmpeg version `win64-v4.2.2`
 2. ImageMagick Studio LLC / magick version `7.0.10-38 GIT revision 17815:bf51a3f1f:20201114`
-3. imageio version $\ge$ `2.9.0`
-4. imageio-ffmpeg version $\ge$ `0.4.2`
-5. moviepy version $\ge$ `1.0.3`
-6. pathvalidate version $\ge$ `2.3.0`
+3. imageio version `2.9.0`
+4. imageio-ffmpeg version `0.4.2`
+5. moviepy version `1.0.3`
+6. pathvalidate version `2.3.0`
 
 LICENSES
 --------
@@ -20,7 +20,7 @@ The original copyright notices and the licenses under which such components were
 
 ### 1 | FFmpeg
 <details>
-    <summary>View Full License [GNU General Public License v2 (GPLv2)]</summary>
+    <summary>View Full License (<code>GNU General Public License v2 (GPLv2)</code>)</summary>
     
     Version 2, June 1991
 
@@ -150,7 +150,7 @@ The original copyright notices and the licenses under which such components were
 
 ### 2 | magick
 <details>
-    <summary>View Full License [ImageMagick License]</summary>
+    <summary>View Full License (<code>ImageMagick License</code>)</summary>
 
     Before we get to the text of the license, lets just review what the license says in simple terms:
 
@@ -259,7 +259,7 @@ The original copyright notices and the licenses under which such components were
 
 ### 3 | imageio
 <details>
-    <summary>View Full License [BSD 2-Clause "Simplified" License]</summary>
+    <summary>View Full License (<code>BSD 2-Clause "Simplified" License</code>)</summary>
 
     Copyright (c) 2014-2020, imageio developers
     All rights reserved.
@@ -288,7 +288,7 @@ The original copyright notices and the licenses under which such components were
 
 ### 4 | imageio-ffmpeg
 <details>
-    <summary>View Full License [BSD 2-Clause "Simplified" License]</summary>
+    <summary>View Full License (<code>BSD 2-Clause "Simplified" License</code>)</summary>
 
     BSD 2-Clause License
 
@@ -319,7 +319,7 @@ The original copyright notices and the licenses under which such components were
 
 ### 5 | moviepy
 <details>
-    <summary>View Full License [The MIT License]</summary>
+    <summary>View Full License (<code>The MIT License</code>)</summary>
 
     The MIT License (MIT)
 
@@ -346,7 +346,7 @@ The original copyright notices and the licenses under which such components were
 
 ### 6 | pathvalidate
 <details>
-    <summary>View Full License [The MIT License]</summary>
+    <summary>View Full License (<code>The MIT License</code>)</summary>
 
     The MIT License (MIT)
 
