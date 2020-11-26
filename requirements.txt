@@ -1,0 +1,7 @@
+# Core
+
+pathvalidate==2.3.0
+moviepy==1.0.3
+# Below two SHOULD be installed as dependencies of moviepy automatically.
+imageio==2.9.0
+imageio-ffmpeg==0.4.2
