@@ -7,3 +7,6 @@ REFERENCE.mp4
 
 # Any test exports.
 *DYKWDII-OUT*
+
+# The part that uploads to Twitter regularly.
+TwitterBot.py
