@@ -15,7 +15,7 @@ Installation
 
 This program requires that certain external libraries be installed via [pip](https://pypi.org/project/pip/). This distribution comes with a `requirements.txt` file designed to streamline the process of installing these libraries. Simply navigate to the directory where `requirements.txt` is located in a terminal and run:
 ```
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 You can then use this program in one of two ways outlined below.
 
