@@ -4,7 +4,7 @@ DYKWDII - Do You Know What Day It Is?
 Introduction
 ------------
 
-Hello user! Thank you for using my program. I know it doesn't do all that much, but it was such a fantastic learning experience and I'm glad to be able to share it with you ([thank you EVW for your permission!](./docs/EVW%20Permission%20of%20Use.png)). Some important notes:
+Hello user! Thank you for using my program, inspired by the work of [Dragonexus](https://twitter.com/GDDragonexus) on Twitter <img src=https://cdn.discordapp.com/emojis/397770592050479105.gif style="width: 25px;"></img>. I know it doesn't do all that much, but it was such a fantastic learning experience and I'm glad to be able to share it with you (thank you [EricVanWilderman](https://twitter.com/VanWilderman) for [your permission](./docs/EVW%20Permission%20of%20Use.png)!). Some important notes:
 
 - **This script requires `Python 3.8` or above**, as I am addicted to [walrus operators](https://www.python.org/dev/peps/pep-0572/).
 - `DYKWDII.py`, the `media` folder, and the `bin` folder must be in the same directory for this program to function.
