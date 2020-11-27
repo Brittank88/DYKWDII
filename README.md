@@ -14,7 +14,7 @@ Installation
 ------------
 
 This program requires that certain external libraries be installed via [pip](https://pypi.org/project/pip/). This distribution comes with a `requirements.txt` file designed to streamline the process of installing these libraries. Simply navigate to the directory where `requirements.txt` is located in a terminal and run:
-```bash
+```
 pip -r requirements.txt
 ```
 You can then use this program in one of two ways outlined below.
@@ -26,7 +26,7 @@ This outlines the functionality of `DYKWDII.py` as a standalone meme producer!
 
 For a full set of commands, properties and defaults, run `py DYKWDII.py -h` from the command line. Something similar (just slightly less formatted) to the following will be produced:
 
-```json
+```
 usage: DYKWDII.py [-h] [-c CAPTION] [-x WIDTH] [-y HEIGHT] [-l LOCATION] [-f FILENAME] [-e EXTENSION]
 
 generate EricVanWilderman "Do you know what day it is?" meme clips
