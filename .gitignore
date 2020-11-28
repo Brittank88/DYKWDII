@@ -8,6 +8,9 @@ REFERENCE.mp4
 # Any test exports.
 *DYKWDII-OUT*
 
+# Temporary files from MoviePy.
+*TEMP_MPY*
+
 # The part that uploads to Twitter regularly.
 TwitterBot.py
 twtbot-requirements.txt
