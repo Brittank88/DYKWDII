@@ -10,3 +10,5 @@ REFERENCE.mp4
 
 # The part that uploads to Twitter regularly.
 TwitterBot.py
+twtbot-requirements.txt
+DatesUploaded.txt
